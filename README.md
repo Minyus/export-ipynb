@@ -28,3 +28,9 @@ Reference: https://www.jetbrains.com/help/pycharm/settings-tools-external-tools.
 - nbformat
 - argparse
 - pathlib (available in Python 3.4 and higher)
+
+## Related tools
+
+- [PyCharm Professional: Scientific Tools](https://www.jetbrains.com/pycharm/features/scientific_tools.html)
+- [PyCharm Professional: Running and Debugging Jupyter Notebook Cells](https://www.jetbrains.com/help/pycharm/running-jupyter-notebook-cells.html)
+- [Jupytext](https://github.com/mwouts/jupytext)
