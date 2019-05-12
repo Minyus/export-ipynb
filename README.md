@@ -1,5 +1,7 @@
 # nbexport, Python code to export .ipynb file from .py
 
+Python code: https://github.com/Minyus/export-ipynb/blob/master/nbexport/nbexport.py
+
 This is a Python code to export .ipynb file from .py using `#%%` as the separator of cells so your Python code can be run in Jupyter or Google Colab (with GPU) keeping the code chunks separated as cells.
 
 This Python code is especially useful for Pythonistas who use PyCharm Professional's Scientific Mode to develop a Deep Learning code and Google Colab to run with GPU.
@@ -21,3 +23,8 @@ To use, right-click the .py file >> External Tools >> "Export .ipynb" as shown i
 </p>
 
 Reference: https://www.jetbrains.com/help/pycharm/settings-tools-external-tools.html
+
+## Dependencies
+- nbformat
+- argparse
+- pathlib (available in Python 3.4 and higher)
